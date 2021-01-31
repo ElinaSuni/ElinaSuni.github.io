@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+h1 {
+	color: white;
+	font-size: 20px
+
+}    
+
+p {
+	color: green;
+	font-size: 12px
+
+}
+
+div class practice {
+	border-style: dotted; 
+	border-width: 2px 100px;
+
+}
+
+ol {
+	list-style-type: letters;
+}
+
+ul {
+	list-style-type: square;
+
+}
